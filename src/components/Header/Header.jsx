@@ -54,7 +54,7 @@ const Header = () => {
 
             </div>
 
-            <ul className={`md:flex absolute pl-5 pb-2 px-2 py-2 bg-red-300 md:static duration-500 ${open ?  'top-6' : '-top-48'}`}>
+            <ul className={`md:flex absolute pl-5 pb-2 px-2 py-2 bg-purple-300 md:static duration-500 ${open ?  'top-6' : '-top-48'}`}>
                     {
                         routes.map(route => <Link
                             key={route.id}

@@ -1,0 +1,35 @@
+[
+    {
+      "id": 1,
+      "name": "Basic Gym Membership",
+      "features": [
+        "Access to basic gym facilities",
+        "Cardio equipment usage",
+        "Limited group classes"
+      ],
+      "price": 29.99
+    },
+    {
+      "id": 2,
+      "name": "Premium Gym Membership",
+      "features": [
+        "Access to premium gym facilities",
+        "Personal trainer sessions",
+        "Unlimited group classes",
+        "Sauna and spa access"
+      ],
+      "price": 49.99
+    },
+    {
+      "id": 3,
+      "name": "Family Gym Membership",
+      "features": [
+        "Access for the whole family",
+        "Unlimited group classes",
+        "Swimming pool access",
+        "Childcare services"
+      ],
+      "price": 79.99
+    }
+  ]
+  

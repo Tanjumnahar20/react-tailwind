@@ -1,6 +1,7 @@
 
 import './App.css'
 import Header from './components/Header/Header'
+import PriceList from './components/PriceList/PriceList'
 
 function App() {
   
@@ -9,7 +10,7 @@ function App() {
   
     <div>
       <Header></Header>
-      <h1 className='text-5xl bg-purple-400'>welcome to tailwind</h1>
+      <PriceList></PriceList>
     </div>
   )
 }
